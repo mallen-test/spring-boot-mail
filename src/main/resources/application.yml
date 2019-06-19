@@ -1,0 +1,11 @@
+spring:
+  mail:
+    host: smtp.xxx.com
+    port: 587
+    username: mallen.huang
+    password: xxx
+    properties:
+      mail:
+        debug: false
+        smtp:
+          auth: true
